@@ -1,0 +1,8 @@
+.flex { display: flex; }
+.items-center { align-items: center; }
+.justify-between { justify-content: space-between; }
+.gap-2 { gap: 0.5rem; }
+.p-4 { padding: 1rem; }
+.rounded { border-radius: var(--radius); }
+.shadow { box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1); }
+.transition { transition-property: color, background-color, border-color, text-decoration-color, fill, stroke; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-duration: 150ms; }

@@ -1,0 +1,14 @@
+:root {
+  --font-sans: 'Inter';
+  --animation-btn: 0.25s;
+  --animation-input: 0.2s;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --rounded-btn: 0.5rem;
+  --rounded-badge: 1.9rem;
+  --animation-btn: 0.25s;
+  --animation-input: 0.2s;
+  --navbar-padding: 0.5rem;
+  --focus-ring: 0 0 0 2px var(--ring);
+}
